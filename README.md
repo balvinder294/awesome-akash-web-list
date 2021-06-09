@@ -12,11 +12,22 @@ We will add new blogs/websites to this list wherever we can find info about akas
 
 - Introduction
 
+  - [Developer Docs](https://docs.akash.network/)
+
   - [Akash A Decentralised cloud of future setup Guide](https://medium.com/dehazelabs/akashnet-a-decentralized-cloud-of-future-setup-guide-9e994e2dd866)
 
   - [Why Decentralized cloud is important for Defi](https://medium.com/stakin/why-decentralized-cloud-is-important-for-the-web-and-blockchain-industry-ffd0f1b239eb)
 
   - [Serum on Akash](https://github.com/ovrclk/serum-on-akash) : Official Repo sample
+
+- Token Buy/Exchange
+
+  - [AscendEX](https://ascendex.com/en/cashtrade-spottrading/usdt/akt)
+  - [Bitmart](https://www.bitmart.com/)
+  - [Gate.io](https://www.gate.io/)
+  - [Bittrex](https://global.bittrex.com/)
+  - [BHEX](https://www.bhex.com/en-us/)
+  - [Digifinex](https://www.digifinex.com/en-ww/)
 
 - Deployment
  
@@ -38,6 +49,8 @@ We will add new blogs/websites to this list wherever we can find info about akas
 
 - Provider
 
+  - [How to setup a Kubernetes Cluster](https://medium.com/dehazelabs/how-to-setup-a-kubernetes-cluster-for-a-akash-provider-main-net-c2c98ea57411)
+
   - [Running a full node Akashnet DeCloud on self hosted server](https://medium.com/dehazelabs/running-a-full-node-akashnet-de-cloud-on-a-self-hosted-server-61757a49ec8c)
 
 - Tools
@@ -51,6 +64,8 @@ We will add new blogs/websites to this list wherever we can find info about akas
   - [Skynet](https://siasky.net/) : Decentralized storage for using with Akash deployments
 
   - [SDL](https://github.com/ovrclk/docs/blob/b65f668b212ad1976fb976ad84a9104a9af29770/sdl/README.md) : SDL language syntax to write deployment scripts
+
+  - [Filebase](https://filebase.com/) : Decentralized Storage compatible with S3
 
 - Sample Code Repo
 
