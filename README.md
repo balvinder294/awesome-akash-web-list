@@ -22,6 +22,7 @@ We will add new blogs/websites to this list wherever we can find info about akas
 
 - Token Buy/Exchange
 
+  - [Osmosis Lab](https://app.osmosis.zone/)
   - [AscendEX](https://ascendex.com/en/cashtrade-spottrading/usdt/akt)
   - [Bitmart](https://www.bitmart.com/)
   - [Gate.io](https://www.gate.io/)
@@ -47,25 +48,57 @@ We will add new blogs/websites to this list wherever we can find info about akas
 
   - [Run Solana Cluster on Akash DeCloud](https://medium.com/@harishmarri551/run-solana-cluster-on-akash-decloud-8d04eb624a00)
 
+  - [How to write SDL Files (Unofficial Guide)](https://blog.dehazelabs.com/how-to-create-sdl-file-to-deploy-apps-on-akash-decloud-d910797dc971)
+  
+  - [Deploy guide for running docker apps on Akash DeCloud by Dehazelabs](https://blog.dehazelabs.com/deploy-docker-apps-on-akash-decloud-network-ca40d2386b9a)
+
 - Provider
 
   - [How to setup a Kubernetes Cluster](https://medium.com/dehazelabs/how-to-setup-a-kubernetes-cluster-for-a-akash-provider-main-net-c2c98ea57411)
 
   - [Running a full node Akashnet DeCloud on self hosted server](https://medium.com/dehazelabs/running-a-full-node-akashnet-de-cloud-on-a-self-hosted-server-61757a49ec8c)
+  
+  - [How to bid on custom deployment by a provider and lease creation](https://blog.dehazelabs.com/akash-provider-guide-how-to-place-bid-on-deployment-and-create-lease-accept-bid-for-selected-b992b40a43f0)
+  
+  - [Deploy Akash Provider with kubeadm, containerd, gvisor
+](https://nixaid.com/deploy-akash-provider-with-kubeadm/)
+
+  - [How to become a cloud provider](https://blog.dehazelabs.com/how-to-become-cloud-provider-7c52d3e892b8)
+
+- Validator
+  
+  - [How to run a Validator Node for Akash Network](https://blog.dehazelabs.com/how-to-run-full-validator-node-for-akash-network-d056ea687abf)
 
 - Tools
 
-  - [Kubespray](https://github.com/kubernetes-sigs/kubespray) : Config to setup Kubernetes cluster for Akash DeCloud
+  - Storage tools
+    
+    - [Skynet](https://siasky.net/) : Decentralized storage for using with Akash deployments
+    
+    - [Filebase](https://filebase.com/) : Decentralized Storage compatible with S3
 
-  - [Akashlytics](https://akashlytics.com/) : Tool providing analytics of Akash cloud network
+    - [Storj](https://www.storj.io/) : Decentralized Storage compatible with S3
+
+  - Other Tools
+    
+    - [Kubespray](https://github.com/kubernetes-sigs/kubespray) : Config to setup Kubernetes cluster for Akash DeCloud
+
+    - [Akashlytics](https://akashlytics.com/) : Tool providing analytics of Akash cloud network
   
-  - [Deploy Tool](https://github.com/tombeynon/akash-deploy) : Open Source UI tool for easy deployments
+    - [Deploy Tool](https://github.com/tombeynon/akash-deploy) : Open Source UI tool for easy deployments
 
-  - [Skynet](https://siasky.net/) : Decentralized storage for using with Akash deployments
+    - [SDL](https://github.com/ovrclk/docs/blob/b65f668b212ad1976fb976ad84a9104a9af29770/sdl/README.md) : SDL language syntax to write deployment scripts
 
-  - [SDL](https://github.com/ovrclk/docs/blob/b65f668b212ad1976fb976ad84a9104a9af29770/sdl/README.md) : SDL language syntax to write deployment scripts
+- Staking 
 
-  - [Filebase](https://filebase.com/) : Decentralized Storage compatible with S3
+  - [UPDATED: Staking Akash ($AKASH): How to delegate Akash via Lunie wallet
+](https://medium.com/anonstake/staking-akash-akash-how-to-delegate-akash-via-lunie-wallet-51b20d901a34)
+  
+  - [Staking Akash ($AKT): How to delegate Akash via Keplr Wallet
+](https://medium.com/anonstake/staking-akash-akt-how-to-delegate-akash-via-keplr-wallet-460cf9b00106)
+
+  - [Simply VC and Akash — the unstoppable cloud
+](https://medium.com/simply-vc/simply-stakings-akash-validator-infrastructure-and-monitoring-186cba8e3cb3)
 
 - Sample Code Repo
 
@@ -108,6 +141,12 @@ We will add new blogs/websites to this list wherever we can find info about akas
 
     - [Telegram](https://t.me/akash_ru)
 
+- Others
+   - [+25.22% growth: How to Buy Akash Network (AKT) — A Step by Step Guide(Unofficial)](https://medium.com/@cryptobuyingtips/25-22-growth-how-to-buy-akash-network-akt-a-step-by-step-guide-crypto-buying-tips-517be9110e0c)
+
+- Videos(Review and usage)
+
+  - [Akash cloud crypto - an amazing Cosmos project with HUGE potential!](https://www.youtube.com/watch?v=FWsOGYGQdY8)
 
 ## About us
 
