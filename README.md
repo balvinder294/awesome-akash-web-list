@@ -33,6 +33,7 @@ We will add new blogs/websites to this list wherever we can find info about akas
 - Deployment
  
   - [How to use a custom domain for deployment with cloudflare](https://medium.com/nerd-for-tech/how-to-use-a-custom-domain-with-your-akash-deployment-5916585734a2)
+  - [Deploy a website from scratch to akash](https://anthonyrosa.medium.com/deploy-a-website-from-scratch-to-akash-7844c9150fe4)
 
   - [Guide to deploying Applications to DeCloud](https://medium.com/coinmonks/guide-to-deploying-applications-to-akash-decloud-b35dc97e5ca4)
 
@@ -147,6 +148,9 @@ We will add new blogs/websites to this list wherever we can find info about akas
 - Videos(Review and usage)
 
   - [Akash cloud crypto - an amazing Cosmos project with HUGE potential!](https://www.youtube.com/watch?v=FWsOGYGQdY8)
+  - [Akash Website Deployment Guide](https://www.youtube.com/watch?v=KGu3wiwcxNc)
+  - [Akashlytics deploy demo - Wordpress on Akash Network](https://www.youtube.com/watch?v=GNEvWmqW7hI)
+  - [Interview with founder Greg about Akash and future](https://www.youtube.com/watch?v=XY33CFNI-OE)
 
 ## About us
 
