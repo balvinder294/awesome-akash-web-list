@@ -155,3 +155,5 @@ We will add new blogs/websites to this list wherever we can find info about akas
 ## About us
 
 We [Dehazelabs](https://dehazelabs.com/) just love open source and use a lot in our projects. Akash DeCloud is a project which caught our attention, so we are contributing our efforts to the project with this list. Help us grow this list and share to people wanting to get hands on Akash.
+
+> Also visit [Tekraze](https://tekraze.com) for reading tech articles
