@@ -84,6 +84,8 @@ We will add new blogs/websites to this list wherever we can find info about akas
     
     - [Kubespray](https://github.com/kubernetes-sigs/kubespray) : Config to setup Kubernetes cluster for Akash DeCloud
 
+    - [IOTA Watch](https://iotahome.site/en/projects/akash) : Independent, MIT-licensed dashboard for public Akash provider, lease and capacity indicators.
+
     - [Akashlytics](https://akashlytics.com/) : Tool providing analytics of Akash cloud network
   
     - [Deploy Tool](https://github.com/tombeynon/akash-deploy) : Open Source UI tool for easy deployments
